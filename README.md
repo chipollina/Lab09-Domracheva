@@ -11,5 +11,5 @@
 - Как проверять содержимое (`Contains`, `StartsWith`, `EndsWith`) и вырезать часть строки через `Substring(начало, длина)`.
 
 ## Скриншоты 
-![Результат]
-![Git]
+![Результат](img/result_Lab09_Domracheva.png)
+![Git](img/git_Lab09_Domracheva.png)
